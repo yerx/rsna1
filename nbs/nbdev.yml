@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "rsna1"
+  site-url: "https://yerx.github.io/rsna1"
+  description: "rsna kaggle competition"
+  repo-branch: main
+  repo-url: "https://github.com/yerx/rsna1"
